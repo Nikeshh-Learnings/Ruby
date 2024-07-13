@@ -29,6 +29,12 @@ Learn how to concatenate strings in Ruby using various methods. This script cove
 ### 9. variables.rb
 This script introduces the concept of variables in Ruby. It explains how to declare and use variables, covering different types such as integers, floats, strings, and booleans. The script also demonstrates variable reassignment and scope.
 
+### 10. parallel_variable_assignment.rb
+This script demonstrates parallel variable assignment in Ruby. It shows how to assign multiple variables in a single line, swap values between variables, and unpack arrays into variables.
+
+### 11. swapping_variable_values.rb
+This script demonstrates how to swap the values of two variables in Ruby. It covers different methods for swapping values, including using a temporary variable and using parallel assignment.
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
