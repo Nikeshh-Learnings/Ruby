@@ -62,6 +62,9 @@ This script explores the `nil?` method in Ruby, which checks if an object is `ni
 ### 20. string_interpolation.rb
 This script introduces the concept of string interpolation in Ruby, a powerful feature that allows embedding expressions within string literals. It explains how to use the `#{}` syntax to insert the value of any Ruby expression into a string. The script covers various use cases of string interpolation, including embedding variables, method
 
+### 20. gets_method.rb
+This script explores the `gets` method in Ruby, which is used to read input from the standard input (usually the keyboard). It explains how to use the `gets` method to capture user input and how to handle the input data. The script covers basic usage of `gets`, including how to prompt the user for input and store the entered value in a variable. It also discusses common pitfalls, such as the inclusion of newline characters, and demonstrates how to strip these characters for cleaner input handling. Practical examples show the `gets` method in action, highlighting its role in interactive Ruby programs.
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
