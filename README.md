@@ -41,6 +41,9 @@ This script covers various assignment shortcuts available in Ruby. It explains h
 ### 13. constants.rb
 This script introduces constants in Ruby. It explains how to define and use constants, the naming conventions, and the differences between constants and variables. The script also discusses the scope and reassignment of constants.
 
+### 14. begin_rescue_ensure.rb
+This script provides a detailed look at error handling in Ruby using `begin`, `rescue`, and `ensure` blocks. It demonstrates how to catch and handle exceptions, ensure that certain code always runs, and manage
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
