@@ -35,6 +35,12 @@ This script demonstrates parallel variable assignment in Ruby. It shows how to a
 ### 11. swapping_variable_values.rb
 This script demonstrates how to swap the values of two variables in Ruby. It covers different methods for swapping values, including using a temporary variable and using parallel assignment.
 
+### 12. assignment_shortcuts.rb
+This script covers various assignment shortcuts available in Ruby. It explains how to use shorthand operators for arithmetic and logical operations, such as `+=`, `-=`, `*=`, `/=`, and more.
+
+### 13. constants.rb
+This script introduces constants in Ruby. It explains how to define and use constants, the naming conventions, and the differences between constants and variables. The script also discusses the scope and reassignment of constants.
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
