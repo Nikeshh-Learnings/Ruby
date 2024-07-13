@@ -44,6 +44,9 @@ This script introduces constants in Ruby. It explains how to define and use cons
 ### 14. begin_rescue_ensure.rb
 This script provides a detailed look at error handling in Ruby using `begin`, `rescue`, and `ensure` blocks. It demonstrates how to catch and handle exceptions, ensure that certain code always runs, and manage
 
+### 15. objects.rb
+This script introduces the concept of objects in Ruby. It explains how to create and use objects, covering the basics of classes, instance variables, and methods. The script also demonstrates how to instantiate objects and interact with their properties and behaviors.
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
