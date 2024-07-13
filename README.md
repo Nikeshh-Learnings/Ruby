@@ -26,6 +26,9 @@ This file contains a collection of algorithms and codes. It includes more comple
 ### 8. string_concatenation.rb
 Learn how to concatenate strings in Ruby using various methods. This script covers simple concatenation, the `+` operator, and the `<<` operator.
 
+### 9. variables.rb
+This script introduces the concept of variables in Ruby. It explains how to declare and use variables, covering different types such as integers, floats, strings, and booleans. The script also demonstrates variable reassignment and scope.
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
