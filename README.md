@@ -47,6 +47,21 @@ This script provides a detailed look at error handling in Ruby using `begin`, `r
 ### 15. objects.rb
 This script introduces the concept of objects in Ruby. It explains how to create and use objects, covering the basics of classes, instance variables, and methods. The script also demonstrates how to instantiate objects and interact with their properties and behaviors.
 
+### 16. exceptions.rb
+This script introduces exception handling in the context of object-oriented programming (OOP) in Ruby. It shows how to define custom exception classes, raise exceptions within methods, and handle them using `begin`, `rescue`, and `ensure` blocks. The script emphasizes the integration of exception handling with OOP principles.
+
+### 17. method_chaining.rb
+This script delves into the concept of method chaining in Ruby. It explains how to create and use chained methods to streamline code and improve readability. The script covers the basics of returning `self` from methods, allowing multiple method calls on the same object in a single statement. Additionally, it demonstrates practical examples of method chaining and its benefits in simplifying complex operations.
+
+### 18. inspect_method.rb
+This script introduces the `inspect` method in Ruby, which provides a string representation of an object for debugging purposes. It explains how the `inspect` method can be used to gain insights
+
+### 19. nil_method.rb
+This script explores the `nil?` method in Ruby, which checks if an object is `nil`. It explains how to use the `nil?` method to determine whether a variable or an object holds a `nil` value, a common scenario in Ruby programming. The script also covers the significance of `nil` in Ruby, how it differs from other falsy values, and the importance of handling `nil` values appropriately to avoid runtime errors. Practical examples demonstrate the usage of `nil?` in various contexts, highlighting its role in ensuring robust and error-free code.
+
+### 20. string_interpolation.rb
+This script introduces the concept of string interpolation in Ruby, a powerful feature that allows embedding expressions within string literals. It explains how to use the `#{}` syntax to insert the value of any Ruby expression into a string. The script covers various use cases of string interpolation, including embedding variables, method
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
