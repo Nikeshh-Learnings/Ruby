@@ -65,6 +65,13 @@ This script introduces the concept of string interpolation in Ruby, a powerful f
 ### 20. gets_method.rb
 This script explores the `gets` method in Ruby, which is used to read input from the standard input (usually the keyboard). It explains how to use the `gets` method to capture user input and how to handle the input data. The script covers basic usage of `gets`, including how to prompt the user for input and store the entered value in a variable. It also discusses common pitfalls, such as the inclusion of newline characters, and demonstrates how to strip these characters for cleaner input handling. Practical examples show the `gets` method in action, highlighting its role in interactive Ruby programs.
 
+### 21. class_method.rb
+This script delves into class methods in Ruby, which are methods defined on the class itself rather than on instances of the class. It explains how to create and use class methods using the `self` keyword or by defining methods directly on the class. The script covers the differences between class methods and instance methods, highlighting scenarios where class methods are particularly useful.
+
+### 22. converting_object_type.rb
+This script covers the concept of object type conversion in Ruby. It explains how to convert objects from one type to another using various built-in methods such as `to_s`, `to_i`, `to_f`, and `to_a`. The script discusses the importance of type conversion in ensuring data compatibility and correctness in Ruby programs.
+
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
