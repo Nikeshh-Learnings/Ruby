@@ -93,6 +93,10 @@ This script covers the concept of object type conversion in Ruby. It explains ho
 
 ### 33. parameters_and_arguments.rb
 
+### 34. local_variables.rb
+
+### 35. return_values.rb
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
