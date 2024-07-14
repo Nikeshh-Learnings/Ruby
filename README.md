@@ -89,6 +89,10 @@ This script covers the concept of object type conversion in Ruby. It explains ho
 
 ### 31. float_methods.rb
 
+### 32. methods.rb
+
+### 33. parameters_and_arguments.rb
+
 ## Getting Started
 
 To run these scripts, you'll need to have Ruby installed on your machine. If you haven't installed Ruby yet, you can download it from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
