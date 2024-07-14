@@ -97,9 +97,13 @@ This script covers the concept of object type conversion in Ruby. It explains ho
 
 ### 35. return_values.rb
 
-### 35. optional_parameters_and_default_arguments.rb
+### 36. optional_parameters_and_default_arguments.rb
 
-### 36. block.rb
+### 37. block.rb
+
+### 38. upto_and_downto_methods.rb
+
+### 39. steps_method.rb
 
 ## Getting Started
 
