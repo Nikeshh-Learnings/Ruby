@@ -71,6 +71,9 @@ This script delves into class methods in Ruby, which are methods defined on the 
 ### 22. converting_object_type.rb
 This script covers the concept of object type conversion in Ruby. It explains how to convert objects from one type to another using various built-in methods such as `to_s`, `to_i`, `to_f`, and `to_a`. The script discusses the importance of type conversion in ensuring data compatibility and correctness in Ruby programs.
 
+### 23. boolean.rb
+
+### 24. equality.rb
 
 ## Getting Started
 
